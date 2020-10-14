@@ -445,7 +445,7 @@ div.hero h2 {
   text-align: center;
 }
 
-.container div.text-box {
+.container article.text-box {
   display: inline-block;
   font-size: large;
   width: 100%;
@@ -455,7 +455,7 @@ div.hero h2 {
 }
 
 @media screen and (min-width: 768px) {
-  .container .div.text-box {
+  .container .article.text-box {
       margin: 10px;
   }
 }
